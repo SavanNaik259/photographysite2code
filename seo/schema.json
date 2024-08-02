@@ -3,9 +3,9 @@
     "@type": "LocalBusiness",
     "name": "My Photography",
     "description": "Professional wedding photography services in Bangalore, Karnataka. Capture your special moments with us.",
-    "url": "https://photographysite2.netlify.app",
-    "logo": "https://photographysite2.netlify.app/images/images (2).jpeg",
-  "image": "https://photographysite2.netlify.app/images/portfolio/cover.jpg",
+    "url": "https://photographysite3.netlify.app",
+    "logo": "https://photographysite3.netlify.app/images/images (2).jpeg",
+  "image": "https://photographysite3.netlify.app/images/portfolio/cover.jpg",
     "address": {
         "@type": "PostalAddress",
         "addressLocality": "Bangalore",
